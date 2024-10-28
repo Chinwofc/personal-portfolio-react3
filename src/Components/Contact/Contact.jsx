@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 // import React from "react";
-import call_icon from '../../assets/call_icon.jpg';
-import email_icon from '../../assets/email_icon.jpg';
+import call_icon from '../../assets/call_icon.jpeg';
+import email_icon from '../../assets/email_icon.jpeg';
 import location_icon from '../../assets/location_icon.png';
 import theme_img from "../../assets/theme_img.jpeg";
 import "./Contact.css";
