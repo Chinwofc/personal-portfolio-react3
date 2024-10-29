@@ -3,7 +3,7 @@ import { default as React, useRef, useState } from 'react';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 import logo from '../../assets/logo.jpg';
 import menu_close from '../../assets/menu_close.jpeg';
-import menu_open from '../../assets/menu_open.png';
+import menu_open from '../../assets/menu_open.jpeg';
 import underline from '../../assets/nav_underline.jpg';
 import './Navbar.css';
 

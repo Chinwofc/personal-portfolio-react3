@@ -9,7 +9,7 @@ const services_Data = [
   {
     s_no: "2",
     s_name: "Graphics Design",
-    s_desc: "Creating and desiigning stunning arts.",
+    s_desc: "Creating and designing stunning arts.",
     // s_icon:"🎨",
   },
 
