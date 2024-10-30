@@ -46,6 +46,7 @@ const Contact = () => {
             send me a message about anything that you want me to work on. You
             can contact me anytime.
           </p>
+          <p><a href="https://docs.google.com/document/d/1IW2EKNJRDjnbtozPrILTJsJ45k4wIwIR2kE_ofC17hI/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Download My CV</a></p>
           <div className="contact-details">
             <div className="contact-detail">
                 <img src={email_icon} alt="" />
