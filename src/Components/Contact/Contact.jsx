@@ -50,7 +50,7 @@ const Contact = () => {
           <div className="contact-details">
             <div className="contact-detail">
                 <img src={email_icon} alt="" />
-                <p>fortunechinwo@gmail.com</p>
+                <p>chinwofortune@gmail.com</p>
             </div>
             <div className="contact-detail">
                 <img src={call_icon} alt="" />
