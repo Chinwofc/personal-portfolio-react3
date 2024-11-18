@@ -64,7 +64,72 @@
     transition: 0.6s;
 }
 
-@media(max-width:768px){
+/* Styles for small devices (up to 600px) */
+@media only screen and (max-width: 600px) {
+    .mywork{
+        gap: 50px;
+        margin: 50px 70px;
+        align-items: start;
+    }
+    .mywork-title h1{
+        padding: 0;
+        font-size: 50px;
+        font-weight: 600;
+    }
+    .mywork-title img{
+        width: 130px;
+        margin-right: -20px;
+    }
+    .mywork-container{
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+    }
+    .mywork-container img{
+       width: 100%;
+       height: 100%;
+    }
+    .mywork-showmore{
+    padding: 20px 40px;
+    font-size: 18px;
+    margin: 50px auto;
+    cursor: pointer;
+    }
+}
+
+  /* Styles for medium devices (601px to 1024px) */
+  @media only screen and (min-width: 601px) and (max-width: 1024px) {
+    .mywork{
+        gap: 50px;
+        margin: 50px 70px;
+        align-items: start;
+    }
+    .mywork-title h1{
+        padding: 0;
+        font-size: 50px;
+        font-weight: 600;
+    }
+    .mywork-title img{
+        width: 130px;
+        margin-right: -20px;
+    }
+    .mywork-container{
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+    }
+    .mywork-container img{
+       width: 100%;
+       height: 100%;
+    }
+    .mywork-showmore{
+    padding: 20px 40px;
+    font-size: 18px;
+    margin: 50px auto;
+    cursor: pointer;
+    }
+}
+
+  /* Styles for large devices (1025px and up) */
+  @media only screen and (min-width: 1025px) {
     .mywork{
         gap: 50px;
         margin: 50px 70px;
