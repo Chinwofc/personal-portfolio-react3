@@ -32,14 +32,19 @@ const About = () => {
           <a href="https://docs.google.com/document/d/1IW2EKNJRDjnbtozPrILTJsJ45k4wIwIR2kE_ofC17hI/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Download My CV</a>
         </div>
         <div className="about-skills">
-        <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"70%"}}/></div>
+        <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"75%"}}/></div>
             <div className="about-skill"><p>HTML 5</p><hr style={{width:"60%"}}/></div>
             <div className="about-skill"><p>Tailwind CSS</p><hr style={{width:"50%"}}/></div>
-            <div className="about-skill"><p>JavaScript</p><hr style={{width:"60%"}}/></div>
-            <div className="about-skill"><p>React JS</p><hr style={{width:"60%"}}/></div>
+            <div className="about-skill"><p>JavaScript</p><hr style={{width:"70%"}}/></div>
+            <div className="about-skill"><p>TypeScript</p><hr style={{width:"65%"}}/></div>
+            <div className="about-skill"><p>React JS</p><hr style={{width:"70%"}}/></div>
+            <div className="about-skill"><p>React Native</p><hr style={{width:"60%"}}/></div>
             <div className="about-skill"><p>React Hooks</p><hr style={{width:"60%"}}/></div>
-            <div className="about-skill"><p>Git</p><hr style={{width:"60%"}}/></div>
-            <div className="about-skill"><p>Github</p><hr style={{width:"60%"}}/></div>
+            <div className="about-skill"><p>Next.js 14</p><hr style={{width:"55%"}}/></div>
+            <div className="about-skill"><p>Expo</p><hr style={{width:"50%"}}/></div>
+            <div className="about-skill"><p>Zustand</p><hr style={{width:"50%"}}/></div>
+            <div className="about-skill"><p>Git</p><hr style={{width:"70%"}}/></div>
+            <div className="about-skill"><p>Github</p><hr style={{width:"75%"}}/></div>
         </div>
       </div>
       </div>
