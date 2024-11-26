@@ -74,40 +74,7 @@
     transition: 0.3s;
 }
 
-/* Styles for small devices (up to 600px) */
-@media only screen and (max-width: 600px) {
-    .footer{
-        margin: 50px 70px;
-    }
-    .footer-top{
-        flex-direction: column;
-        gap: 50px;
-    }
-    .footer-bottom{
-        display: flex;
-        flex-direction: column-reverse;
-        margin-bottom: 50px;
-    }
-}
-
-  /* Styles for medium devices (601px to 1024px) */
-  @media only screen and (min-width: 601px) and (max-width: 1024px) {
-    .footer{
-        margin: 50px 70px;
-    }
-    .footer-top{
-        flex-direction: column;
-        gap: 50px;
-    }
-    .footer-bottom{
-        display: flex;
-        flex-direction: column-reverse;
-        margin-bottom: 50px;
-    }
-}
-
-  /* Styles for large devices (1025px and up) */
-  @media only screen and (min-width: 1025px) {
+@media(max-width: 768px) {
     .footer{
         margin: 50px 70px;
     }
